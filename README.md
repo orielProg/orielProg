@@ -28,7 +28,6 @@
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
 
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=orielProg&show_icons=true&theme=radical&hide=contribs">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=orielProg&layout=compact&hide_border=true&theme=darcula&bg_color=00000000">  
