@@ -6,12 +6,6 @@
 - 🥅 2022 Goals: Learn more about web3 and NoSQL DB
 - ⚡ Fun fact: I love to workout 🏋️
 
-### Connect with me:
-
-<a href = "https://www.linkedin.com/in/orielzehavi/">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
-</a>
-&nbsp;&nbsp;
 
 
 ### Languages and Tools:
@@ -32,7 +26,15 @@
 ### Stats:
 
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=orielProg&show_icons=true&theme=radical&hide=contribs">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=orielProg&layout=compact&hide_border=true&theme=darcula&bg_color=00000000">  
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=orielProg&layout=compact&hide_border=true&theme=darcula&bg_color=00000000"> 
+  &nbsp;&nbsp; 
+
+  ### Connect with me:
+
+<a href = "https://www.linkedin.com/in/orielzehavi/">
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
+</a>
+
 
 
 
