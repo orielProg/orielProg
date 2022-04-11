@@ -8,7 +8,9 @@
 
 ### Connect with me:
 
-[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/orielzehavi)
+<a href = "https://www.linkedin.com/in/orielzehavi/">
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
+</a>
 
 
 ### Languages and Tools:
