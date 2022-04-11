@@ -1,6 +1,6 @@
 # Hi there, I'm Oriel 👋 
 
-## I’m a second year student at Bar-Ilan University, Bachelor of Science in Computer Science.
+## I’m a second year student at Bar-Ilan University, Bachelor of Science in Computer Science
 
 - 🌱 Looking for a Student Software Development position
 - 🥅 2022 Goals: Learn more about web3 and NoSQL DB
@@ -27,7 +27,6 @@
 
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=orielProg&show_icons=true&theme=radical&hide=contribs">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=orielProg&layout=compact&hide_border=true&theme=darcula&bg_color=00000000"> 
-  &nbsp;&nbsp; 
 
   ### Connect with me:
 
